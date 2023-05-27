@@ -1,0 +1,23 @@
+# Auth
+api_key={apiKey} (Url Query Parameter)
+
+// Schools
+GET    /schools
+GET    /school/{schoolId}
+POST   /school/{schoolId}
+PUT    /school/{schoolId}
+DELETE /school/{schoolId}
+
+// Competitions
+GET    /competitions?school={schoolId}&agent={agentId}
+GET    /competition/{competitionId}
+POST   /competition/{competitionId}
+PUT    /competition/{competitionId}
+DELETE /competition/{competitionId}
+
+// Agents
+POST   /agent/login
+GET    /agent/{agentId}
+POST   /agent/{agentId}
+PUT    /agent/{agentId}
+DELETE /agent/{agentId}

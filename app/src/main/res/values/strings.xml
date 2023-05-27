@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, PdfViewerActivity!</string>
+    <string name="app_name">Camcours</string>
+    <string name="connexion">connexion</string>
+    <string name="pacompte">pas de compte?, merci de bien vouloir cliquer ici</string>
+</resources>

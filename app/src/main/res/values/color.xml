@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <drawable name="white">#FFFFFFFF</drawable>
+    <drawable name="black">#000000</drawable>
+    <drawable name="blue">#FF3700B3</drawable>
+    <drawable name="violet">#9370DB</drawable>
+    <color name="rose">#FF22E9</color>
+    <color name="hint">#B7575252</color>
+    <color name="click">#FFD4FB</color>
+</resources>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="60dp"
+    android:layout_marginLeft="30dp"
+    android:layout_marginRight="30dp"
+    android:layout_marginTop="0dp"
+    android:layout_marginBottom="0dp"
+    android:orientation="horizontal"
+    android:paddingTop="15dp">
+
+    <ImageView
+        android:id="@+id/imageView2"
+        android:layout_width="32dp"
+        android:layout_height="match_parent"
+        app:srcCompat="@drawable/school" />
+
+    <TextView
+        android:id="@+id/schoolName"
+        android:layout_width="match_parent"
+        android:textColor="@color/black"
+        android:layout_height="match_parent"
+        android:layout_marginLeft="10dp"
+        android:gravity="center_vertical"
+        android:text="Benjamain's Institute" />
+
+</LinearLayout>
